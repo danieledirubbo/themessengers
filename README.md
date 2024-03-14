@@ -1,6 +1,6 @@
 # Colophon
 
-Copyleft (ɔ) 2020-2021 Daniele Di Rubbo. Alcuni diritti riservati.
+Copyleft (ɔ) 2020-2024 Daniele Di Rubbo. Alcuni diritti riservati.
 
 Questi racconti sono opera di Daniele Di Rubbo e sono pubblicati con licenza Creative Commons Attribuzione-Condividi allo stesso modo 4.0 Internazionale. Per leggere la licenza, visita <https://creativecommons.org/licenses/by-sa/4.0/deed.it>.
 
