@@ -19,3 +19,4 @@
 * [Bastone e carota](/racconti/11.bastone-e-carota.md)
 * [La preda più pericolosa](/racconti/12.la-preda-piu-pericolosa.md)
 * [Quella casa nel bosco](/racconti/13.quella-casa-nel-bosco.md)
+* [Il guardiano](/racconti/14.il-guardiano.md)
