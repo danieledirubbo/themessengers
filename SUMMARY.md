@@ -6,8 +6,8 @@
 
 ***
 
-* [Benvenuti a Black Mountain](benvenuti-a-black-mountain.md)
-* [Sir Tristram](sir-tristram.md)
+* [Benvenuti a Black Mountain](/racconti/1.benvenuti-a-black-mountain.md)
+* [Sir Tristram](/racconti/2.sir-tristram.md)
 * [Sogni nella casa stregata](sogni-nella-casa-stregata.md)
 * [Tea party](tea-party.md)
 * [Attrezzi da giardino](attrezzi-da-giardino.md)
