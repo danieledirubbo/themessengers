@@ -6,4 +6,4 @@ Questi racconti sono opera di Daniele Di Rubbo e sono pubblicati con licenza Cre
 
 Parte del materiale utilizzato è copyright e trademark di Paradox Interactive AB, ed è usata previo permesso. Tutti i diritti riservati. Per maggiori informazioni, visita <https://www.worldofdarkness.com/>.
 
-![Logo Dark Pack](https://hunter-net.themessengers.info/immagini/dark-pack.png)
+![Logo Dark Pack](/immagini/dark-pack.png)
